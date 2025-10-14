@@ -11,3 +11,7 @@ dist/
 # Editors
 .vscode/
 .idea/
+
+# Env files
+.env
+**/.env
